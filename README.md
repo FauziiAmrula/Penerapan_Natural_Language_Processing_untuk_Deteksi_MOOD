@@ -1,0 +1,2 @@
+# Penerapan_Natural_Language_Processing_untuk_Deteksi_MOOD
+TUGAS UJIAN AKHIR SEMESTER MATAKULIAH KECERDASAN BUATAN
